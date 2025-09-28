@@ -11,3 +11,6 @@ yarn-error.log*
 
 # Pasta de build (se você usar TypeScript no futuro)
 dist/
+
+readme.md
+src/config/db.js
